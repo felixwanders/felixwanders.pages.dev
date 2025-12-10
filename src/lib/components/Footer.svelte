@@ -8,7 +8,7 @@
 	<footer>
 		<span
 			><a
-				href="https://github.com/felixonwheels/felixonwheels.pages.dev"
+				href="https://github.com/felixwanders/felixwanders.pages.dev"
 				target="_blank"
 				rel="noopener noreferrer"><CodeXml size={20} /></a
 			>
