@@ -141,7 +141,7 @@ Vous pouvez trouver mon CV&nbsp;<a
 
 <ul>
 	<li><a href="mailto:felixgif@gmail.com">📧 felixgif [at] gmail [dot] com</a></li>
-	<li><a href="https://bsky.app/profile/felixonwheels.bsky.social">🦋 bluesky</a></li>
+	<li><a href="https://bsky.app/profile/felixwanders.bsky.social">🦋 bluesky</a></li>
 </ul>
 
 <hr />

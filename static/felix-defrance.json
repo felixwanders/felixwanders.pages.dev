@@ -1,22 +1,12 @@
 {
   "basics": {
+    "url": {
+      "href": "https://felixwanders.pages.dev",
+      "label": "Site perso"
+    },
     "name": "Félix Defrance",
-    "headline": "Ingénieur passionné par la création de logiciels utiles, accessibles et sobres.",
     "email": "felixgif@gmail.com",
     "phone": "+33 6 70 26 04 14",
-    "location": "Paris",
-    "url": {
-      "label": "Site perso",
-      "href": "https://felixonwheels.pages.dev"
-    },
-    "customFields": [
-      {
-        "id": "pmd7u9u18yj8mvked680pu5w",
-        "icon": "github-logo",
-        "name": "GitHub",
-        "value": "https://github.com/felixonwheels/"
-      }
-    ],
     "picture": {
       "url": "https://avatars.githubusercontent.com/u/8938540?v=4",
       "size": 64,
@@ -27,7 +17,72 @@
         "border": false,
         "grayscale": false
       }
-    }
+    },
+    "headline": "Ingénieur passionné par la création de logiciels utiles, accessibles et sobres.",
+    "location": "Paris",
+    "customFields": [
+      {
+        "id": "pmd7u9u18yj8mvked680pu5w",
+        "icon": "github-logo",
+        "name": "GitHub",
+        "value": "https://github.com/felixwanders/"
+      }
+    ]
+  },
+  "metadata": {
+    "template": "chikorita",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education"
+        ],
+        [
+          "skills",
+          "languages",
+          "interests",
+          "volunteer",
+          "awards",
+          "certifications",
+          "projects",
+          "references",
+          "publications"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 10,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#27ae60"
+    },
+    "typography": {
+      "font": {
+        "family": "Nunito",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 12
+      },
+      "lineHeight": 1,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
   },
   "sections": {
     "summary": {
@@ -419,60 +474,5 @@
       ]
     },
     "custom": {}
-  },
-  "metadata": {
-    "template": "chikorita",
-    "layout": [
-      [
-        [
-          "profiles",
-          "summary",
-          "experience",
-          "education"
-        ],
-        [
-          "skills",
-          "languages",
-          "interests",
-          "volunteer",
-          "awards",
-          "certifications",
-          "projects",
-          "references",
-          "publications"
-        ]
-      ]
-    ],
-    "css": {
-      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
-      "visible": false
-    },
-    "page": {
-      "margin": 10,
-      "format": "a4",
-      "options": {
-        "breakLine": true,
-        "pageNumbers": true
-      }
-    },
-    "theme": {
-      "background": "#ffffff",
-      "text": "#000000",
-      "primary": "#27ae60"
-    },
-    "typography": {
-      "font": {
-        "family": "Nunito",
-        "subset": "latin",
-        "variants": [
-          "regular"
-        ],
-        "size": 12
-      },
-      "lineHeight": 1,
-      "hideIcons": false,
-      "underlineLinks": true
-    },
-    "notes": ""
   }
 }
